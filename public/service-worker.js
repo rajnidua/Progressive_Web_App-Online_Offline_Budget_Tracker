@@ -8,6 +8,7 @@ const FILES_TO_CACHE = [
   "/manifest.webmanifest",
   "/icons/android-chrome-192x192.png",
   "/icons/android-chrome-512x512.png",
+  "/icons/apple-touch-icon.png",
 ];
 
 const CACHE_NAME = "static-cache-v2";
