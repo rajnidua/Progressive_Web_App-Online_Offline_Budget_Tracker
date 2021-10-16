@@ -44,6 +44,12 @@ npm install mongoose
 npm install compression
 ```
 
+```md
+This app is a progressive web application so it uses :
+manifest.webmanifest
+service-worker.js
+```
+
 ## Heroku deployment
 
 Create heroku app using these commands
