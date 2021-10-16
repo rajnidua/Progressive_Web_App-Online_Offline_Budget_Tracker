@@ -4,7 +4,7 @@ const FILES_TO_CACHE = [
   "/styles.css",
   "/index.js",
   "/db.js",
-  "/favicon.ico",
+
   "/manifest.webmanifest",
   "/icons/android-chrome-192x192.png",
   "/icons/android-chrome-512x512.png",
